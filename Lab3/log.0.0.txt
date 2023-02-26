@@ -1,0 +1,36 @@
+февр. 25, 2023 1:47:07 PM by.denisenko.one.main.Main main
+INFO: Начало main, создаем DefaultCar
+февр. 25, 2023 1:48:00 PM by.denisenko.one.main.Main main
+INFO: Начало main, создаем DefaultCar
+февр. 25, 2023 1:48:00 PM by.denisenko.one.main.Main main
+INFO: Cоздаем SportCar
+февр. 25, 2023 1:48:00 PM by.denisenko.one.main.Main main
+INFO: Cоздаем Truck
+февр. 25, 2023 1:50:38 PM by.denisenko.one.main.Main main
+INFO: Начало main, создаем DefaultCar
+февр. 25, 2023 1:50:38 PM by.denisenko.one.main.Main main
+INFO: Cоздаем SportCar
+февр. 25, 2023 1:50:38 PM by.denisenko.one.main.Main main
+INFO: Cоздаем Truck
+февр. 25, 2023 1:50:38 PM by.denisenko.one.main.Main main
+INFO: Создаём Таксопарк
+февр. 25, 2023 1:50:38 PM by.denisenko.one.main.Main main
+INFO: Добавляем SportCar в Таксопарк
+февр. 25, 2023 1:50:38 PM by.denisenko.one.main.Main main
+INFO: Добавляем DefaultCar в Таксопарк
+февр. 25, 2023 1:50:38 PM by.denisenko.one.main.Main main
+INFO: Добавляем Truck в Таксопарк
+февр. 25, 2023 1:53:33 PM by.denisenko.one.main.Main main
+INFO: Начало main, создаем DefaultCar
+февр. 25, 2023 1:53:33 PM by.denisenko.one.main.Main main
+INFO: Cоздаем SportCar
+февр. 25, 2023 1:53:33 PM by.denisenko.one.main.Main main
+INFO: Cоздаем Truck
+февр. 25, 2023 1:53:33 PM by.denisenko.one.main.Main main
+INFO: Создаём Таксопарк
+февр. 25, 2023 1:53:33 PM by.denisenko.one.main.Main main
+INFO: Добавляем SportCar в Таксопарк
+февр. 25, 2023 1:53:33 PM by.denisenko.one.main.Main main
+INFO: Добавляем DefaultCar в Таксопарк
+февр. 25, 2023 1:53:33 PM by.denisenko.one.main.Main main
+INFO: Добавляем Truck в Таксопарк
