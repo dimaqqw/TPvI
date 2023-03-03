@@ -1,0 +1,14 @@
+мар. 03, 2023 7:57:18 PM by.denisenko.one.main.Main main
+INFO: Начало main, создаем DefaultCar
+мар. 03, 2023 7:57:18 PM by.denisenko.one.main.Main main
+INFO: Cоздаем SportCar
+мар. 03, 2023 7:57:18 PM by.denisenko.one.main.Main main
+INFO: Cоздаем Truck
+мар. 03, 2023 7:57:18 PM by.denisenko.one.main.Main main
+INFO: Создаём Таксопарк
+мар. 03, 2023 7:57:18 PM by.denisenko.one.main.Main main
+INFO: Добавляем SportCar в Таксопарк
+мар. 03, 2023 7:57:18 PM by.denisenko.one.main.Main main
+INFO: Добавляем DefaultCar в Таксопарк
+мар. 03, 2023 7:57:18 PM by.denisenko.one.main.Main main
+INFO: Добавляем Truck в Таксопарк
