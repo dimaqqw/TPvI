@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"basejava"},{"l":"by.belstu.it.denisenko"}];updateSearchResults();
